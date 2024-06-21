@@ -1,8 +1,8 @@
-package sample;
+package primeNumber;
 
 import java.util.Arrays;
 
-public class PrimeNumber_Algorithm_1 {
+public class Sample_1 {
 
 	// 素数を求める (Find all Prime Number)
 	// エラトステネスの篩 (Sieve of Eratosthenes)
