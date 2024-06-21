@@ -1,6 +1,6 @@
-package sample;
+package greatestCommonDivisor;
 
-public class GCD_Algorithm_1 {
+public class Sample_1 {
 
 	// 最大公約数を求める (Find the greatest common divisor)
 	// ユークリッドの互除法(Euclidean algorithm)

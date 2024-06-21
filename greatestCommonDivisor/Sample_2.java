@@ -1,6 +1,6 @@
-package sample;
+package greatestCommonDivisor;
 
-public class GCD_Algorithm_2 {
+public class Sample_2 {
 
 	// 最大公約数を求める (Find the greatest common divisor)
 	// 引き算の繰り返しで最大公約数を求めるプログラム
