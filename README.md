@@ -1,6 +1,8 @@
-# Learn Algorithm in 1 week
+# Algorithm
 
-<a href="https://sevendays-study.com/algorithm/">一週間で身につくアルゴリズムとデータ構造</a>より、
-一部をプログラム
+いろいろなアルゴリズムを掲載
+
+最大公約数
+素数
 
 
