@@ -2,7 +2,7 @@ package sample;
 
 public class GCD_Algorithm_1 {
 
-	// Find the greatest common divisor
+	// 最大公約数を求める (Find the greatest common divisor)
 	// ユークリッドの互除法(Euclidean algorithm)
 	public static void main(String[] args) {
 	    int m = 876; //1つめの数字

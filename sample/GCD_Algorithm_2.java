@@ -2,7 +2,7 @@ package sample;
 
 public class GCD_Algorithm_2 {
 
-	// Find the greatest common divisor
+	// 最大公約数を求める (Find the greatest common divisor)
 	// 引き算の繰り返しで最大公約数を求めるプログラム
 	public static void main(String[] args) {
 	    int m = 876; //1つめの数字
